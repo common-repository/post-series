@@ -1,0 +1,27 @@
+#series-of-posts-box {
+	float: right;
+	position: relative;
+	background: #fbfaf5;
+	width: 280px;
+	z-index: 10;
+	margin: 25px; 
+	height: auto;
+	padding: 40px 30px 25px 40px;
+	border: 1px solid #eee;
+	list-style: none;
+	-webkit-box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.4);
+	box-shadow: 2px 2px 3px 0px rgba(0, 0, 0, 0.4); 
+}
+
+#series-of-posts-box .one-series {
+	margin-bottom: 15px;
+	font-weight: bold;
+	font-weight: 18px;
+}
+
+#series-of-posts-box .one-link {
+	margin-bottom: 25px;
+	line-height: normal;
+	font-size: 16px;
+}
